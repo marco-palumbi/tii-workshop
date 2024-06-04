@@ -1,4 +1,5 @@
 {
     "rust-analyzer.check.command": "clippy",
+    "editor.inlayHints.enbled": "offUnlessPressed",
     "editor.formatOnSave": true
 }
